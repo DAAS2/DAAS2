@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DAAS2
-- 👀 I’m interested in coding and game dev
-- 🌱 I’m currently learning Python, C++, HTML & CSS,
+- 👀 I’m interested in Python, Artifical Intelligence and Data Science
+- 🌱 I’m currently working on  Python, C, HTML & CSS, SQL, Javascript
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me Github
 
