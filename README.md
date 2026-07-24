@@ -120,7 +120,6 @@ I've built production-ready AI systems beyond just calling an LLM API:
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Full--Time%20Roles-%2322c55e?style=for-the-badge" />
   <br/><br/>
-  📫 saad@velamarketing.app &nbsp;·&nbsp;
-  <a href="https://velamarketing.app">🌐 velamarketing.app</a> &nbsp;·&nbsp;
+  📫 daasrmalik@gmail.com &nbsp;·&nbsp;
   Melbourne, AU
 </p>
