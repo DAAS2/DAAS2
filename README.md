@@ -19,7 +19,7 @@ I'm a full-stack developer and AI/LLM engineer who ships end-to-end products —
 
 I care about clean architecture, real user problems, and building things that actually work in production.
 
-- 🏢 Interned at **Pandaaux** — TypeScript, React, Next.js, Docker, Sanity CMS, Tailwind, shadcn/ui - [pandauxstudio.com](pandauxstudio.com)
+- 🏢 Interned at [**Pandaaux**](pandauxstudio.com) — TypeScript, React, Next.js, Docker, Sanity CMS, Tailwind, shadcn/ui
 - 🤖 Built **RAG pipelines** and **LLM agents** with orchestration loops, reranking, k-grouping, and full observability via LangSmith
 - 📱 Shipping **HalalCheck** — a React Native + Expo halal food intelligence app (Melbourne → Global)
 - 🎓 Built **UniVibe** — an AI-powered university onboarding app for Monash (Gemini + Supabase + SQLite)
