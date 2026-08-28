@@ -28,6 +28,9 @@
   <a href="mailto:daasrmalik@gmail.com">
     <img src="https://img.shields.io/badge/Contact-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email Saad Malik" />
   </a>
+  <a href="https://www.linkedin.com/in/saad-malik-ab47b52a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
 </p>
 
 ---
@@ -44,7 +47,7 @@ I was a Software Developer Intern at PANDAUX, where I contributed to a live Type
 
 ## Selected work
 
-### [KwizPro](https://www.kwizpro.com)
+### [KwizPro](https://www.kwizpro.com) · Learning platform
 
 A live subscription platform that helps students turn their study material into more effective revision workflows.
 
@@ -53,7 +56,13 @@ A live subscription platform that helps students turn their study material into 
 - Includes account management, personalised experiences, subscription access and collaborative learning features.
 - Designed as a practical product for students rather than a one-off demonstration.
 
-`Next.js` `TypeScript` `React` `Supabase` `PostgreSQL`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" alt="React" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 <p>
   <a href="https://www.kwizpro.com">
@@ -61,7 +70,7 @@ A live subscription platform that helps students turn their study material into 
   </a>
 </p>
 
-### [Vela](https://velamarketing.app)
+### [Vela](https://velamarketing.app) · Marketing operations platform
 
 A marketing operations platform for small businesses, developed with a five-person founding team.
 
@@ -70,7 +79,13 @@ A marketing operations platform for small businesses, developed with a five-pers
 - Focused on making complex marketing work easier to manage while keeping users in control of final decisions.
 - Contribute across product engineering, user experience, feedback cycles and feature delivery.
 
-`Next.js` `TypeScript` `React` `Supabase` `PostgreSQL`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" alt="React" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 <p>
   <a href="https://velamarketing.app">
@@ -78,7 +93,7 @@ A marketing operations platform for small businesses, developed with a five-pers
   </a>
 </p>
 
-### VicLive — In Progress
+### VicLive · In progress
 
 A proactive public-transport companion for Victoria.
 
@@ -87,7 +102,13 @@ A proactive public-transport companion for Victoria.
 - Exploring conversational assistance for questions about the Victorian public-transport network.
 - Currently in active development.
 
-`React Native` `Expo` `TypeScript` `Node.js` `Supabase`
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=0F172A" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
 <details>
 <summary><strong>What I am building toward</strong></summary>
@@ -100,7 +121,7 @@ The focus is a responsive, clear mobile experience built around timely network i
 
 </details>
 
-### [Campus AI](https://campus-ai-demo.vercel.app)
+### [Campus AI](https://campus-ai-demo.vercel.app) · Learning platform
 
 A learning platform with distinct student, staff and administrator experiences.
 
@@ -108,7 +129,13 @@ A learning platform with distinct student, staff and administrator experiences.
 - Developed role-based product experiences, responsive dashboards and review workflows.
 - Designed with accessibility and clear information architecture in mind.
 
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 <details>
 <summary><strong>Earlier projects</strong></summary>
@@ -165,21 +192,6 @@ I use retrieval, orchestration and observability where they improve the user exp
 | Software Developer Intern | PANDAUX | TypeScript, React, Next.js, REST APIs, Sanity CMS, Docker and CI/CD |
 | Founder & Product Architect | Vela | Product engineering, customer workflows and cross-functional collaboration |
 | Founder & Full-Stack Developer | KwizPro | Live subscription product, learning workflows and full-stack delivery |
-
-## GitHub activity
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=DAAS2&show_icons=true&hide_title=true&hide_border=true&bg_color=FFFFFF&text_color=334155&icon_color=0F172A&title_color=0F172A&include_all_commits=true&count_private=true&v=2"
-    alt="Saad Malik's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAAS2&layout=compact&hide_border=true&bg_color=FFFFFF&text_color=334155&title_color=0F172A&langs_count=6&v=2"
-    alt="Most used languages"
-  />
-</p>
 
 ## Current work
 
