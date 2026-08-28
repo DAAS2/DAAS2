@@ -170,21 +170,14 @@ I use retrieval, orchestration and observability where they improve the user exp
 
 <p align="center">
   <img
-    height="155"
-    src="https://github-readme-stats.vercel.app/api?username=DAAS2&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=475569&icon_color=0F172A&title_color=0F172A"
-    alt="GitHub statistics"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=DAAS2&show_icons=true&hide_title=true&hide_border=true&bg_color=FFFFFF&text_color=334155&icon_color=0F172A&title_color=0F172A&include_all_commits=true&count_private=true&v=2"
+    alt="Saad Malik's GitHub statistics"
   />
   <img
-    height="155"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAAS2&layout=compact&hide_border=true&bg_color=00000000&text_color=475569&title_color=0F172A"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAAS2&layout=compact&hide_border=true&bg_color=FFFFFF&text_color=334155&title_color=0F172A&langs_count=6&v=2"
     alt="Most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/DAAS2/DAAS2/output/github-contribution-grid-snake.svg"
-    alt="Animated contribution graph"
   />
 </p>
 
