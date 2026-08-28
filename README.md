@@ -1,125 +1,201 @@
-<h1 align="center">Hey, I'm Saad Malik 👋</h1>
+<h1 align="center">Saad Malik</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · AI/LLM Engineer · Mobile Developer</strong><br/>
-  Melbourne, Australia 🇦🇺
+  Full-stack software engineer and AI engineer building practical, user-facing web and mobile products.
 </p>
 
 <p align="center">
-  <a href="https://velamarketing.app"><img src="https://img.shields.io/badge/Vela%20Marketing-Founder-%230f172a?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.petory.au"><img src="https://img.shields.io/badge/Petory.au-Designer-%230f172a?style=flat-square&logo=safari&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Full--Time-%2322c55e?style=flat-square" />
+  <a href="https://www.kwizpro.com">KwizPro</a>
+  ·
+  <a href="https://velamarketing.app">Vela</a>
+  ·
+  <a href="https://daasm-portfolio.vercel.app">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/saad-malik-ab47b52a3/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=2600&pause=1200&color=64748B&center=true&vCenter=true&width=760&lines=TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+PostgreSQL;Full-stack+engineering+%C2%B7+Applied+AI+%C2%B7+Real-time+systems;Building+software+people+can+use%2C+not+just+prototypes"
+    alt="Full-stack engineering, applied AI and real-time systems"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DAAS2?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20repositories-0F172A?style=flat-square&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+  <a href="mailto:daasrmalik@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email Saad Malik" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm a full-stack developer and AI/LLM engineer who ships end-to-end products — from mobile apps and web platforms to production-grade AI agent systems with orchestration, observability, and retrieval pipelines.
+I am a Software Developer focused on full-stack web, mobile and applied AI engineering.
 
-I care about clean architecture, real user problems, and building things that actually work in production.
+I build user-facing products with TypeScript, React, Next.js, React Native, Node.js and PostgreSQL/Supabase. My work includes full-stack application development, intelligent product features, real-time interfaces, API integrations and thoughtful user workflows.
 
-- 🏢 Interned at [**Pandaaux**](pandauxstudio.com) — TypeScript, React, Next.js, Docker, Sanity CMS, Tailwind, shadcn/ui
-- 🤖 Built **RAG pipelines** and **LLM agents** with orchestration loops, reranking, k-grouping, and full observability via LangSmith
-- 📱 Shipping **HalalCheck** — a React Native + Expo halal food intelligence app (Melbourne → Global)
-- 🎓 Built **UniVibe** — an AI-powered university onboarding app for Monash (Gemini + Supabase + SQLite)
-- 🌐 Founder of [Vela Marketing](https://velamarketing.app) · Designed [Petory.au](https://www.petory.au)
+I enjoy the practical engineering work around a feature: understanding requirements, designing clear interfaces, handling edge cases and continuously improving a product after people use it.
 
----
+I was a Software Developer Intern at PANDAUX, where I contributed to a live TypeScript, React and Next.js codebase.
 
-## Tech Stack
+## Selected work
 
-**AI / LLM**
+### [KwizPro](https://www.kwizpro.com)
 
-![LangChain](https://img.shields.io/badge/LangChain-%23ffffff?style=flat-square&logo=chainlink&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-%23ffffff?style=flat-square&logo=graphql&logoColor=black)
-![LangSmith](https://img.shields.io/badge/LangSmith-%23ffffff?style=flat-square&logo=datadog&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-%23ffffff?style=flat-square&logo=openai&logoColor=black)
-![Vector DBs](https://img.shields.io/badge/Vector%20Databases-%23ffffff?style=flat-square&logo=pinecone&logoColor=black)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-%234285F4?style=flat-square&logo=google&logoColor=white)
+A live subscription platform that helps students turn their study material into more effective revision workflows.
 
-**Web**
+- Built and operate the product from idea through to deployment, ongoing improvements and live-user feedback.
+- Helps students create revision material, practise through interactive learning modes and organise their study.
+- Includes account management, personalised experiences, subscription access and collaborative learning features.
+- Designed as a practical product for students rather than a one-off demonstration.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000?style=flat-square&logo=vercel&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity%20CMS-%23F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-%23C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+`Next.js` `TypeScript` `React` `Supabase` `PostgreSQL`
 
-**Mobile**
+<p>
+  <a href="https://www.kwizpro.com">
+    <img src="https://img.shields.io/badge/Open%20KwizPro-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Open KwizPro" />
+  </a>
+</p>
 
-![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-%23000020?style=flat-square&logo=expo&logoColor=white)
-![NativeWind](https://img.shields.io/badge/NativeWind-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### [Vela](https://velamarketing.app)
 
----
+A marketing operations platform for small businesses, developed with a five-person founding team.
 
-## Featured Projects
+- Building a single workspace for planning, producing and managing marketing activity.
+- Developed customer-facing workflows that help businesses move from an initial brief to reviewable campaign output.
+- Focused on making complex marketing work easier to manage while keeping users in control of final decisions.
+- Contribute across product engineering, user experience, feedback cycles and feature delivery.
 
-### 🎓 UniVibe — AI University Onboarding App
-> A warm, anti-corporate first-week-of-uni app for Monash students.
+`Next.js` `TypeScript` `React` `Supabase` `PostgreSQL`
 
-Chat-style onboarding → personality profiling → matched social rooms → Campus Vibe feed → Career Pathway builder with AI micro-skills. Built with **Vite + React**, **Express**, **Drizzle ORM**, **SQLite**, and **Gemini 1.5 Flash** with deterministic fallbacks. Fully Supabase-ready architecture.
+<p>
+  <a href="https://velamarketing.app">
+    <img src="https://img.shields.io/badge/Open%20Vela-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Open Vela" />
+  </a>
+</p>
 
-`TypeScript` `React` `Express` `Gemini AI` `Drizzle ORM` `TanStack Query` `Tailwind`
+### VicLive — In Progress
 
----
+A proactive public-transport companion for Victoria.
 
-### 🥩 HalalCheck — Halal Food Intelligence App *(In Progress)*
-> Mobile-first halal verification for 1.8B+ Muslim consumers. Melbourne → Global.
+- Building a mobile experience around live departures, vehicle locations, service disruptions, accessibility information and journey planning.
+- Designed to help commuters make better decisions before and during a trip, rather than only displaying a static timetable.
+- Exploring conversational assistance for questions about the Victorian public-transport network.
+- Currently in active development.
 
-Barcode scanning (VisionCamera + MLKit) → Open Food Facts API → Gemini Vision fallback → personal AI food advisor → halal restaurant finder via Google Places. Built on **React Native + Expo**, **Supabase Edge Functions**, **Next.js (Vercel)**, and **Gemini 2.0 Flash**.
+`React Native` `Expo` `TypeScript` `Node.js` `Supabase`
 
-`React Native` `Expo` `Supabase` `Next.js` `Gemini AI` `Google Places API` `pgvector`
+<details>
+<summary><strong>What I am building toward</strong></summary>
 
----
+<br />
 
-### 🌐 Vela Marketing — [velamarketing.app](https://velamarketing.app)
-> Marketing platform I founded and built end-to-end.
+VicLive is intended to make public-transport information easier to understand at the moment it matters: when services change, connections are tight or a commuter needs a more accessible option.
 
-`Next.js` `TypeScript` `Tailwind` `Supabase`
+The focus is a responsive, clear mobile experience built around timely network information and useful trip context.
 
----
+</details>
 
-### 🐾 Petory — [petory.au](https://www.petory.au)
-> Pet services platform. Designed and developed the full website.
+### [Campus AI](https://campus-ai-demo.vercel.app)
 
-`Next.js` `TypeScript` `Tailwind`
+A learning platform with distinct student, staff and administrator experiences.
 
----
+- Built user workflows for learning support, content management and administration.
+- Developed role-based product experiences, responsive dashboards and review workflows.
+- Designed with accessibility and clear information architecture in mind.
 
-## AI Engineering Capabilities
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL`
 
-I've built production-ready AI systems beyond just calling an LLM API:
+<details>
+<summary><strong>Earlier projects</strong></summary>
 
-- **Agent Orchestration** — multi-step looping agents with conditional branching via LangGraph
-- **RAG Pipelines** — chunking strategies, vector store ingestion, semantic + hybrid retrieval
-- **Reranking** — cross-encoder reranking for precision retrieval
-- **k-Grouping** — clustering retrieved results for diverse, non-redundant context windows
-- **Observability** — full trace logging and evaluation via LangSmith
-- **Structured Output** — Zod/JSON schema-validated LLM responses (Gemini + OpenAI)
-- **Multimodal** — image + text pipelines for document and product analysis
+<br />
 
----
+- [Uniqlo Assist](https://github.com/DAAS2/Uniqlo-Assist) — Customer-support prototype with a web interface and real-time human handoff for more complex cases.
+- [UniVibe](https://github.com/DAAS2/UniVibe) — University onboarding application built with TypeScript and React.
+- [Portfolio Website](https://daasm-portfolio.vercel.app) — Personal developer portfolio featuring interactive frontend work.
+
+</details>
+
+## Engineering focus
+
+```text
+Frontend       TypeScript, JavaScript, React, Next.js, React Native, Tailwind CSS
+Backend        Node.js, Fastify, Express, Next.js Route Handlers, REST APIs
+Data           PostgreSQL, Supabase, pgvector, SQLite, authentication and access control
+Real time      WebSockets, Supabase Realtime and responsive live-data interfaces
+Delivery       Git/GitHub, Docker, CI/CD, Vercel, debugging and release workflows
+```
+
+## Applied AI capabilities
+
+I build AI-enabled product features with an emphasis on useful output, clear user control and reliable application behaviour.
+
+| Area | Experience |
+|---|---|
+| Retrieval-augmented generation | RAG pipelines for grounding responses in relevant documents, product context and trusted source material |
+| Hybrid retrieval | Combining semantic vector search with keyword or full-text search to improve relevance and coverage |
+| Vector search | Embeddings, pgvector, indexed similarity search, document chunking and retrieval strategies |
+| Agent orchestration | LangChain and LangGraph workflows for multi-step task execution, routing, state management and structured outputs |
+| Multi-agent systems | Coordinating specialised agents for product workflows while maintaining clear routing, shared context and review points |
+| Human handoff | Designing escalation and approval flows that keep people in control of sensitive, ambiguous or high-impact decisions |
+| Observability | LangSmith tracing, evaluation workflows, request logging and monitoring AI interactions for quality and debugging |
+| Reliability | Guardrails, validation, fallback handling, source attribution, error states and latency-aware user experience design |
+| Integrations | Model-provider APIs, tool calling, server-side API integrations and real-time product workflows |
+
+<details>
+<summary><strong>How I approach AI product engineering</strong></summary>
+
+<br />
+
+I treat a model call as one component of a wider software system. The surrounding work matters: defining the user workflow, selecting the right context, structuring and validating outputs, handling failures, measuring quality, managing response latency and giving users appropriate review or escalation paths.
+
+I use retrieval, orchestration and observability where they improve the user experience, while keeping product decisions and underlying implementation details private.
+
+</details>
 
 ## Experience
 
-| Role | Company | Stack |
+| Role | Organisation | Focus |
 |---|---|---|
-| Software Developer Intern | **Pandaaux** | TypeScript · React · Next.js · Docker · Sanity CMS · Tailwind · shadcn/ui |
-| Founder & Developer | **Vela Marketing** | Next.js · Supabase · TypeScript |
-| Freelance Designer/Developer | **Petory.au** | Next.js · Tailwind |
+| Software Developer Intern | PANDAUX | TypeScript, React, Next.js, REST APIs, Sanity CMS, Docker and CI/CD |
+| Founder & Product Architect | Vela | Product engineering, customer workflows and cross-functional collaboration |
+| Founder & Full-Stack Developer | KwizPro | Live subscription product, learning workflows and full-stack delivery |
 
----
+## GitHub activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Full--Time%20Roles-%2322c55e?style=for-the-badge" />
-  <br/><br/>
-  📫 daasrmalik@gmail.com &nbsp;·&nbsp;
-  Melbourne, AU
+  <img
+    height="155"
+    src="https://github-readme-stats.vercel.app/api?username=DAAS2&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=475569&icon_color=0F172A&title_color=0F172A"
+    alt="GitHub statistics"
+  />
+  <img
+    height="155"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAAS2&layout=compact&hide_border=true&bg_color=00000000&text_color=475569&title_color=0F172A"
+    alt="Most used languages"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DAAS2/DAAS2/output/github-contribution-grid-snake.svg"
+    alt="Animated contribution graph"
+  />
+</p>
+
+## Current work
+
+- Improving KwizPro using feedback from live users.
+- Developing VicLive, a public-transport mobile application for Victoria.
+- Building Vela with a cross-functional founding team.
+- Seeking software engineering internship opportunities where I can contribute to customer-facing web and mobile products.
+
+## Contact
+
+Melbourne, Australia  
+[daasrmalik@gmail.com](mailto:daasrmalik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saad-malik-ab47b52a3/) · [Portfolio](https://daasm-portfolio.vercel.app)
